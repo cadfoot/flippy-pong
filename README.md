@@ -1,22 +1,15 @@
 # Flippy Pong Demo
 
-**Версия Unity:** 2019.2.21f1, **проект под версию 2019.2.0f1 расположен в ветке unity_2019.2.0**
+**Unity version:** 2019.2.21f1
 
-**Протестировано на:**
-- Samsung SM-A505FN (Android 9)
-- Apple iPhone Xs (iOS 13.7)
-- Apple Mac mini 2018 (macOS 10.15.6)
+### Single player
 
-### Одиночная игра
+1. Click "Host"
+1. Click "Go Single"
 
-1. Нажать на кнопку "Host"
-1. Нажать на кнопку "Go Single"
+### Local multiplayer
 
-### Игра по локальной сети
-
-1. На устройстве 1 нажать на кнопку "Host"
-1. На устройстве 2 нажать на кнопку "Find"
-1. На устройстве 2 подождать, пока кнопка "Find" поменяется на кнопку "Join"
-1. На устройстве 2 нажать на кнопку "Join"
-
-Также можно запустить два экзепляра приложения на одном компьютере
+1. On device A click "Host"
+1. On device B click "Find"
+1. On device B wait until "Join" button appears
+1. On device B click "Join"
